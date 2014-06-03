@@ -23,7 +23,7 @@ p {
 	margin: 20px 80px 20px 50px;
 }
 li {
-  background: #999;
+  background:; #999
   font-color: #000;
   list-style: none;
   margin: 20px;
@@ -32,4 +32,7 @@ li {
   font-family: Bookman Old Style;
   font-size: 18px;
   text-decoration: none;
+}
+a {
+  color: #030202;
 }
